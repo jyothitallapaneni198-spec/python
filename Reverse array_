@@ -1,4 +1,3 @@
-Reversed array: [5, 4, 3, 2, 1]
-
-
-** Process exited - Return Code: 0 **
+arr = [1, 2, 3, 4, 5]
+rev_arr = arr[::-1]
+print(rev_arr)
