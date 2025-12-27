@@ -1,0 +1,5 @@
+num=1235678
+res=str(num)
+print(num)
+print(len(res))
+
