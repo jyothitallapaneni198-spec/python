@@ -1,4 +1,8 @@
-Largest number: 89
+arr = [10, 25, 3, 98, 45]
 
+largest = arr[0]
+for num in arr:
+    if num > largest:
+        largest = num
 
-** Process exited - Return Code: 0 **
+print(largest)
